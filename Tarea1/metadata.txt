@@ -1,0 +1,6 @@
+Modelo de IA utilizado:
+Gemini 3 Flash (Free tier)
+
+Prompts utilizados para resolver la tarea:
+1. "Que datos"
+2. "Donde coloco los codigos"
